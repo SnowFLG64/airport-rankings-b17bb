@@ -8,7 +8,7 @@ excerpt: >-
   condimentum dignissim justo vel faucibus.
 featuredImage:
   type: ImageBlock
-  url: /images/post-4.jpg
+  url: /images/JKIA.jpg
   altText: Post Image
 bottomSections:
   - type: CtaSection
