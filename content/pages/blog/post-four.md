@@ -1,7 +1,7 @@
 ---
 title: Jomo Kenyatta International Airport
 layout: PostLayout
-date: '2021-11-03'
+date: '2021-11-04'
 author: content/data/team/hugh-saturation.json
 excerpt: My full ranking and review of JKIA
 featuredImage:
