@@ -3,9 +3,7 @@ title: Jomo Kenyatta International Airport
 layout: PostLayout
 date: '2021-11-03'
 author: content/data/team/hugh-saturation.json
-excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+excerpt: My full ranking and review of JKIA
 featuredImage:
   type: ImageBlock
   url: /images/JKIA.jpg
