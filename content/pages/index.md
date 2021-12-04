@@ -7,9 +7,8 @@ sections:
     colors: colors-a
     title: Airports Ranked by design
     text: >
-      One platform, one community, getting to the bottom line of everything
-      employment.  Figure out your benefits, practice for interviews, get
-      mentored, help peers, get helped in return.
+      There's tons of airports that are good, but which one is the best? Find
+      out here
     actions:
       - type: Button
         label: Sign up
