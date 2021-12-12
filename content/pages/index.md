@@ -9,12 +9,7 @@ sections:
     text: >
       There's tons of airports that are good, but which one is the best? Find
       out here
-    actions:
-      - type: Button
-        label: Sign up
-        url: 'https://www.stackbit.com/'
-        style: primary
-        elementId: hero-main-button
+    actions: []
     media:
       type: ImageBlock
       url: /images/airportgate1.jpeg
